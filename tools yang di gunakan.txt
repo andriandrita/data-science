@@ -1,0 +1,5 @@
+berikut adalah tools yang di gunakan untuk menjadi data science
+kuasailah bahasa pemrograman python dan gunakan visual code studio
+kuasailah rumus rumus excell dan cara menggunakannya
+mempelajari SQL
+mempelajari tools untuk visualilasi data seperti tableau
